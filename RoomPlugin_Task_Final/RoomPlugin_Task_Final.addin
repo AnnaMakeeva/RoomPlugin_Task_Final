@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RoomPlugin_Task_Final.dll"</Assembly>
+		
+		<AddInId>F2841701-1D5B-4A1F-BF05-EF56E2FD1692</AddInId>
+		<FullClassName>RoomPlugin_Task_Final.AddRoom</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка помещений</Text>
+	</AddIn>
+</RevitAddIns>
